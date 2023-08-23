@@ -1,4 +1,4 @@
-//12. Escribir un programa que calcule el número de horas, minutos y segundos que hay en un valor x de segundos indicados por el usuario.
+//12. Escribir un programa que calcule el número de horas, minutos y segundos que hay en un valor x de segundos indicados por el usuario
 
 #include <iostream>
 using namespace std;
