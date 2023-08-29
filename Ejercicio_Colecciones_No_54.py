@@ -1,3 +1,5 @@
+"""Escribir un programa que genera la matriz transpuesta de una matriz de 3 filas y 4 columnas."""
+
 M = [
     [1, 2, 3, 4],
     [5, 6, 7, 8],
